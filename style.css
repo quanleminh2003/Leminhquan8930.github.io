@@ -1,4 +1,4 @@
-/* Reset CSS */
+
 * {
     margin: 0;
     padding: 0;
@@ -6,7 +6,6 @@
     font-family: 'Poppins', sans-serif;
 }
 
-/* Tổng thể */
 body {
     background-color: #f4f4f4;
     color: #333;
@@ -16,7 +15,7 @@ body {
     min-height: 100vh;
 }
 
-/* Container chính */
+
 .cv-container {
     width: 600px;
     background: white;
@@ -26,7 +25,7 @@ body {
     text-align: center;
 }
 
-/* Ảnh đại diện */
+
 .profile img {
     width: 150px;
     border-radius: 50%;
@@ -43,7 +42,7 @@ body {
     color: #666;
 }
 
-/* Các phần khác */
+
 section {
     margin-top: 20px;
     text-align: left;
@@ -80,4 +79,5 @@ ul {
 .contact a {
     color: #ff9800;
     text-decoration: none;
+
 }
